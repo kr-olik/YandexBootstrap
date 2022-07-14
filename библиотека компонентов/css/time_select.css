@@ -21,6 +21,11 @@
 	background-size: 16px 20px;
 }
 
+.form-select {
+	border-radius: 24px;
+	font-size: 15px;
+}
+
 /* Компонент с выбором часового пояса ON*/
 
 .time_select_off {
@@ -33,4 +38,8 @@
 
 .off {
 	background-image: none;
+}
+
+.btn_bottom {
+	margin-top: 167px;
 }
